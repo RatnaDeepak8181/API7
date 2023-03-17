@@ -1,0 +1,6 @@
+GET http://localhost:3000/directors/
+###
+GET http://localhost:3000/movies/
+
+###
+GET http://localhost:3000/directors/:directorId/movies/
